@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">Hey there, and welcome to my profile! I am an aspiring Front End Developer. I am currently doing a FrontEnd Plus course with TheLearningPeople, which I'm close to finishing. I've got a passion for coding and so I enjoy working on new projects. Feel free to look around!</h3>
+<h3 align="center">Hey there, and welcome to my profile! I am an aspiring Front End Developer. I am currently doing a FrontEnd Plus course with <a href="https://www.learningpeople.com/uk/courses/front-end-plus/">TheLearningPeople</a>, which I'm close to finishing. I've got a passion for coding and so I enjoy working on new projects. Feel free to look around!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamilszczesiak&label=Profile%20views&color=0e75b6&style=flat" alt="kamilszczesiak" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Local Cafe Website](https://github.com/KamilSzczesiak/Cafe)
 
-- 🌱 I’m currently doing **FrontEnd Plus Course with TheLearningPeople**
+- 🌱 I’m currently doing **FrontEnd Plus Course with <a href="https://www.learningpeople.com/uk/become-a-cloud-computing-pro/?utm_term=cloud%20training&utm_medium=cpc&utm_source=google&campaign_id=22123676843&utm_campaign=CLOUDX_3Cloud(CL10)(B)(AllDevices)(2025)&gad_source=1&gclid=Cj0KCQiAy8K8BhCZARIsAKJ8sfSpwOw51VJbc_KeW0cZhRth_ubZDcDTIonjrRvlK9iPsBUnhMVva0gaAqSdEALw_wcB">TheLearningPeople</a>*
 
 - 👨‍💻 All of my projects are available at [https://kamilszczesiak.github.io/KamilPortfolio/](https://kamilszczesiak.github.io/KamilPortfolio/)
 
